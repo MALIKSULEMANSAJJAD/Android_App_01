@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 
 import 'constants/app_colors.dart';
 import 'screens/calc_screen.dart';
-//wass
+//wa
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
 
